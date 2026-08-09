@@ -1,0 +1,14 @@
+2026-07-31 12:23:35,508 INFO Added expense 1: Food ($20.00)
+2026-07-31 12:24:13,839 INFO Added expense 2: Transport ($30.05)
+2026-07-31 12:24:52,816 INFO Added expense 3: Food ($38.00)
+2026-07-31 12:25:44,923 INFO Loaded 3 expense(s) from data/expenses.json.
+2026-07-31 12:26:14,964 INFO Added expense 4: Rent ($450.00)
+2026-07-31 12:27:14,340 WARNING Tried to delete expense 7, but it doesn't exist.
+2026-07-31 12:27:23,375 INFO Deleted expense 4.
+2026-08-04 11:21:12,781 ERROR Could not parse data/expenses.json — starting with an empty list.
+2026-08-04 11:21:30,371 ERROR Could not parse data/expenses.json — starting with an empty list.
+2026-08-04 11:22:04,246 INFO Added expense 1: Food ($20.00)
+2026-08-04 11:22:41,084 INFO Added expense 2: Rent ($450.00)
+2026-08-04 11:25:37,668 INFO Loaded 2 expense(s) from data/expenses.json.
+2026-08-04 11:25:55,291 INFO Added expense 3: Food ($20.00)
+2026-08-04 11:26:16,325 INFO Added expense 4: Rent ($3.00)
